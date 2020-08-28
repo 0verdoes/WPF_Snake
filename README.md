@@ -12,6 +12,6 @@ Overview:
 * Entity Framework Code first database
 * C# Core model, buisness logic
 * WPF with MVVM architecture
-** with reinvented "Delegates"
-** App.xaml.cs connect all the Layers
-** Database layer made with depencencies injection
+  - with reinvented "Delegates"
+  - App.xaml.cs connect all the Layers
+  - Database layer made with depencencies injection
